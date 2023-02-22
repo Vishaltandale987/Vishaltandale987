@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/chandrashekharjoshi302?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Vishaltandale987?tab=repositories)
 
 - 💬 Ask me about **react / java script / redux**
 
-- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1TBJHhIe8cjRc9gHwYkMwsfUTlbcWsz0I/view?usp=sharing)**
+- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1rnHZVpF4vLUtmimcOD2_KoJkMhkF9QLV/view?usp=sharing)**
 
 - 📫 How to reach me **(vishaltandle800@gmail.com)**
 
