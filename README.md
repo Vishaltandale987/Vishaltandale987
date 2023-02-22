@@ -1,10 +1,10 @@
-# Chandrashekhar Joshi
+# Vishal Tandale
 
 
  
  <img src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" />
 
-<h1 align="center">Hi 👋, I'm Chandrashekhar Joshi</h1>
+<h1 align="center">Hi 👋, I'm Vishal Tandale</h1>
 
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
@@ -25,9 +25,9 @@
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1TBJHhIe8cjRc9gHwYkMwsfUTlbcWsz0I/view?usp=sharing)**
 
-- 📫 How to reach me **(chandrashekharjoshi02@gmail.com)**
+- 📫 How to reach me **(vishaltandle800@gmail.com)**
 
-- 📫 Reach out with me by  **[(LinkedIn)](https://www.linkedin.com/in/chandrashekhar-joshi-105282228/)**
+- 📫 Reach out with me by  **[(LinkedIn)](https://www.linkedin.com/in/vishal-tandale-071053234)**
 
 - ⚡ Fun fact :- `**knowledge is a key**`
 
@@ -69,10 +69,10 @@
 
 <table  align=center>
   <tr>
-    <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=chandrashekharjoshi302&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
+    <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=Vishaltandale987&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
     
   <td align=center> 
-    <img src="https://github-readme-stats.vercel.app/api?username=chandrashekharjoshi302&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Vishaltandale987&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
    <img src="https://camo.githubusercontent.com/491294d8860bf803756b2f7451e72904323f79faff57f553fbbb77d35e647195/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7375466937383637266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137"   width=500  height=300>
    </td>
    <td>
-         <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrashekharjoshi302&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+         <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=Vishaltandale987&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" />
    </td>
    
    
@@ -99,7 +99,7 @@
 ## 🏆GitHub Trophies
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=chandrashekharjoshi302&margin-w=15&margin-h=15&column=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vishaltandale987&margin-w=15&margin-h=15&column=8" />
 </div>
 
 
@@ -109,7 +109,7 @@
 
 
 
-[![chandrashekharjoshi302 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandrashekharjoshi302&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vishaltandale987 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vishaltandale987&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
