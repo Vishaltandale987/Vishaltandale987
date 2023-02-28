@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **react / java script / redux**
 
-- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1rnHZVpF4vLUtmimcOD2_KoJkMhkF9QLV/view?usp=sharing)**
+- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1ssGwKgYk_41bJd2WW7LktbSkJFlfGwdz/view?usp=sharing)**
 
 - 📫 How to reach me **(vishaltandle800@gmail.com)**
 
